@@ -91,24 +91,28 @@ let resumeData = {
         "url":"http://alien-generator.herokuapp.com/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Basic Portfolio",
+        "description":"My first portfolio built with HTML and CSS.",  
+        "imgurl":"images/portfolio/anime-girl.jpeg",
+        "url":"https://tpgent01.github.io/gentry-portfolio/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Crack That Code",
+        "description":"An app that provides a timed quiz on JavaScript fundamentals and stores high scores.",
+        "imgurl":"images/portfolio/quiz.jpg",
+        "url":"https://tpgent01.github.io/crack-that-code/"
       },
       {
-        "name":"project5",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Work Day Scheduler",
+        "description":"A time management app that provides the user with the ability to add events to a daily planner to help manage their time.",
+        "imgurl":"images/portfolio/work.png",
+        "url":"https://tpgent01.github.io/work-day-scheduler/"
       },
       {
-        "name":"project6",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Budget Tracker",
+        "description":"A budget tracker that allows offline access through IndexedDB.",
+        "imgurl":"images/portfolio/money.jpg",
+        "url":"https://pacific-falls-07240.herokuapp.com/"
       }
     ],
     "testimonials":[
