@@ -126,6 +126,10 @@ let resumeData = {
       },
       {
         "description":"One of the best Jounin around!",
+        "name":"Nagato"
+      },
+      {
+        "description":"Potential to be the next Hokage!",
         "name":"Naruto"
       }
     ]
