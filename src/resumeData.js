@@ -82,37 +82,43 @@ let resumeData = {
         "name":"DiscLive",
         "description":"A music discovery platform.",
         "imgurl":"images/portfolio/crowd.jpg",
-        "url":"https://meaghancampbell.github.io/disc-live/"
+        "url":"https://meaghancampbell.github.io/disc-live/",
+        "className":"fa fa-github"
       },
       {
         "name":"Alien Lifeform Generator",
         "description":"Game to generate random aliens.",
         "imgurl":"images/portfolio/alien.jpg",
-        "url":"http://alien-generator.herokuapp.com/"
+        "url":"http://alien-generator.herokuapp.com/",
+        "className":"fa fa-github"
       },
       {
         "name":"Basic Portfolio",
         "description":"My first portfolio built with HTML and CSS.",  
         "imgurl":"images/portfolio/anime-girl.jpeg",
-        "url":"https://tpgent01.github.io/gentry-portfolio/"
+        "url":"https://tpgent01.github.io/gentry-portfolio/",
+        "className":"fa fa-github"
       },
       {
         "name":"Crack That Code",
         "description":"An app that provides a timed quiz on JavaScript fundamentals and stores high scores.",
         "imgurl":"images/portfolio/quiz.jpg",
-        "url":"https://tpgent01.github.io/crack-that-code/"
+        "url":"https://tpgent01.github.io/crack-that-code/",
+        "className":"fa fa-github"
       },
       {
         "name":"Work Day Scheduler",
-        "description":"A time management app that provides the user with the ability to add events to a daily planner to help manage their time.",
+        "description":"A time management app that provides the user with the ability to add events to a daily planner.",
         "imgurl":"images/portfolio/work.png",
-        "url":"https://tpgent01.github.io/work-day-scheduler/"
+        "url":"https://tpgent01.github.io/work-day-scheduler/",
+        "className":"fa fa-github"
       },
       {
         "name":"Budget Tracker",
         "description":"A budget tracker that allows offline access through IndexedDB.",
         "imgurl":"images/portfolio/money.jpg",
-        "url":"https://pacific-falls-07240.herokuapp.com/"
+        "url":"https://pacific-falls-07240.herokuapp.com/",
+        "className":"fa fa-github"
       }
     ],
     "testimonials":[
