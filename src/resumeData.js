@@ -93,6 +93,13 @@ let resumeData = {
         "className":"fa fa-github"
       },
       {
+        "name":"Taroble Cards",
+        "description":"Created to give a user a new take on a tarot card reading that is unlike any other.",
+        "imgurl":"images/portfolio/tarot.png",
+        "url":"https://taroble-cards.herokuapp.com/",
+        "className":"fa fa-github"
+      },
+      {
         "name":"Basic Portfolio",
         "description":"My first portfolio built with HTML and CSS.",  
         "imgurl":"images/portfolio/anime-girl.jpeg",
@@ -111,13 +118,6 @@ let resumeData = {
         "description":"A time management app that provides the user with the ability to add events to a daily planner.",
         "imgurl":"images/portfolio/work.png",
         "url":"https://tpgent01.github.io/work-day-scheduler/",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"Budget Tracker",
-        "description":"A budget tracker that allows offline access through IndexedDB.",
-        "imgurl":"images/portfolio/money.jpg",
-        "url":"https://pacific-falls-07240.herokuapp.com/",
         "className":"fa fa-github"
       }
     ],
